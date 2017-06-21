@@ -1,0 +1,47 @@
+h1 {
+	margin: 15px auto;
+	text-align: center;
+	font-family: 'Cabin Sketch';
+}
+
+.button {
+  margin: 33px auto;
+  text-align: center;
+}
+
+.clear {
+  width: 100px;
+  height: 35px;
+  background-color: #90e1e5;
+  font-size: 1em;
+}
+
+.container {
+  margin: 33px auto;
+  width: 600px;
+  font-size: 0;
+  border: solid 5px purple;
+}
+
+.grid {
+  background-color: black;
+  //margin: .5px;
+  //border: 1px solid rgba(0, 0, 0, .2); 
+  display: inline-grid;
+  margin: 0;
+  padding: 0;
+  //#90e1e5
+}
+
+.highlight {
+  background-color: #90e1e5
+}
+
+.newgrid {
+  background-color: black;
+  width: 30px;
+  height: 30px;
+  margin: .5px;
+  border: 1px solid rgba(0, 0, 0, .2); 
+  display: inline-grid;
+}
